@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341069110349",
+    "project_id": "instagramanalysys-b6a09",
+    "storage_bucket": "instagramanalysys-b6a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341069110349:android:d04ac39480bcc126751004",
+        "android_client_info": {
+          "package_name": "com.example.instagram_analysys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341069110349-b6sq70qvdgjejcdl0c3sphan7t3anhuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoijO2cIcwDXSZ6Qa8rDU7TwYz_oMq_tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341069110349-b6sq70qvdgjejcdl0c3sphan7t3anhuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
